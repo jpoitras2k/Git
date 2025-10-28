@@ -1,0 +1,5 @@
+Account Number: 7680812746
+Account Type: savings
+Account Holder: Bob
+Initial Balance: $1000.00
+Transactions:
