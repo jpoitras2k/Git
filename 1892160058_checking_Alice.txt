@@ -1,7 +1,0 @@
-Account Number: 1892160058
-Account Type: checking
-Account Holder: Alice
-Initial Balance: $500.00
-Transactions:
-Deposit: $200.00
-Withdrawal: $100.00
